@@ -1,2 +1,2 @@
-print "\n Putin, helloooooo"
-print "\n La-la-la-la-la-la-la-la"
+print "Putin, helloooooo"
+print "\nLa-la-la-la-la-la-la-la"
